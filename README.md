@@ -7,6 +7,7 @@ The dashboard supports SDG 3 (Good Health & Well-Being) and SDG 4 (Quality Educa
 ## Table of Contents
 
 - [Features](#features)
+- [My Contribution (Geospatial Visualization)](#mycontribution(geospatialvisualization))
 - [Datasets Used](#datasetsused)
 - [Tools & Technologies](#tools&technologies)
 - [Objectives](#objectives)
@@ -20,6 +21,13 @@ The dashboard supports SDG 3 (Good Health & Well-Being) and SDG 4 (Quality Educa
 - Geospatial mapping of death distribution across Malaysian states
 - Word cloud visualization derived from clinical descriptions of deceased patients
 - Demographic dashboards by age group, gender, and vaccination status
+
+## My Contribution (Geospatial Visualization)
+This was a **group project**. My primary contributions include:
+
+- **Developed all geospatial visualizations** mapping COVID-19 mortality by Malaysian state using Power BI.
+- **Designed interactive features** such as zoom views for West/East Malaysia and custom tooltips showing demographic details (age, gender, Malaysian/non-Malaysian deaths).
+- **Integrated spatial datasets** with demographic attributes such as age groups, gender counts, and population segments for meaningful geospatial analysis.
 
 ## Datasets Used
 Textual Data
